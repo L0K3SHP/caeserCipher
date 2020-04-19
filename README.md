@@ -1,2 +1,12 @@
 # Caeser-cipher
-Caesar Cipher using python
+Caesar Cipher
+Language
+-----------------
+  Python
+-----------------
+
+
+Encryption
+-----------------
+  Random Order transfer key
+--------------------
